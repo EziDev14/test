@@ -1,0 +1,8 @@
+aiospe_cryptex
+450a0208-ebba-49fe-b30f-92e31b1bc2c3
+
+aiospe_workspace
+a5fb29fb-56ab-495f-89eb-9d410e157154
+
+aiospe_aprueva
+eb6a448f-7d8e-45d3-9108-4aed8fc4e5ed

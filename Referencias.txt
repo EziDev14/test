@@ -1,0 +1,9 @@
+[3] http://ojs.uac.edu.co/index.php/prospectiva/article/view/490/386
+[4] E. CABRERA, Esrudio para Implementación de Servicios de Data Center basados en el Modelo Cloud Computing, Cuenca: Universidad de Cuenca, 2013.
+[5] M. BUENAVENTURA, Desarrollo de una Nube Estudiantil “Cloud-IT” Libre y Portable, Guayaquil: Universidad Internacional del Ecuador, 2013.
+[8] https://azure.microsoft.com/es-es/overview/security/
+[9] https://cloud.google.com/security/encryption-at-rest/default-encryption
+[6] https://repositorio.usam.ac.cr/xmlui/handle/11506/2113 
+[1] Barrios, H.; Fuentes, L.; Olivos, A. (2009). Computación en la nube. Recuperado de http://profesores.elo.utfsm.cl/~agv/elo322/1s09/project/reports/ComputacionEnLaNube.pdf
+[7] https://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/5978/00005161.pdf?sequence=1
+[2] Blogging LaSalle (2010). dasdasdNetworking and internet technologies. Recuperado de  https://blogs.salleurl.edu/es/como-protegemos-nuestra-empresa-de-ciberataques
